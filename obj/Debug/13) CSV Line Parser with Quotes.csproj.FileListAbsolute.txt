@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\13) CSV Line Parser with Quotes\bin\Debug\13) CSV Line Parser with Quotes.exe.config
+C:\Users\HP\source\repos\13) CSV Line Parser with Quotes\bin\Debug\13) CSV Line Parser with Quotes.exe
+C:\Users\HP\source\repos\13) CSV Line Parser with Quotes\bin\Debug\13) CSV Line Parser with Quotes.pdb
+C:\Users\HP\source\repos\13) CSV Line Parser with Quotes\obj\Debug\13) CSV Line Parser with Quotes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\13) CSV Line Parser with Quotes\obj\Debug\13) CSV Line Parser with Quotes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13) CSV Line Parser with Quotes\obj\Debug\13) CSV Line Parser with Quotes.exe
+C:\Users\HP\source\repos\13) CSV Line Parser with Quotes\obj\Debug\13) CSV Line Parser with Quotes.pdb
